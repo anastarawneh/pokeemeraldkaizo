@@ -11,3 +11,4 @@ This repository only includes the patches, I do not want to host the source code
 - CyanSixFour, for creating the community quality of life patches.
 - CreamElDudJafar, for creating the Emerald Kaizo title screen.
 - [pret](https://github.com/pret), for the original [pokeemerald](https://github.com/pret/pokeemerald) decompilation of Pokémon Emerald, and their wiki.
+- The pChal Discord community, for playtesting the patches and helping with the changes I originally missed.
